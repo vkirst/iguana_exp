@@ -7,8 +7,8 @@
    use_message_filter="true">
    <to_mapper
       guid="gch-event-store-new-To-p7RLwZZUkmDqSG"
-      commit_id="7a0b84cb60f559c0cb88c737a9ed1ac62f12e20e"
-      commit_comment="start">
+      commit_id="02337de1e61957766ab67de47978ad89295636cf"
+      commit_comment="Import Translators: Im">
       <dequeue_list>
          <dequeue
             source_name="self"
@@ -17,8 +17,8 @@
    </to_mapper>
    <from_mapper
       guid="gch-event-store-new-From-3EZmxI8CyDSrT7"
-      commit_id="4bb758135bbd01ff89f32f2ce8f856a82b7084a6"
-      commit_comment="start"
+      commit_id="41a59931360b936458d3bb5880257a707e44f6f4"
+      commit_comment="test commit"
       poll_time="10000">
    </from_mapper>
    <message_filter
@@ -32,7 +32,7 @@
       error_handling="0"
       use_translator_filter="true"
       translator_guid="gch-event-store-new-Filter-z8Zjn4q3D9HGXA"
-      translator_commit_id="38255d72b95987f853c87ed22196b28462f69ab8"
-      translator_commit_comment="start">
+      translator_commit_id="02337de1e61957766ab67de47978ad89295636cf"
+      translator_commit_comment="Import Translators: Im">
    </message_filter>
 </channel>
