@@ -5,7 +5,7 @@ local mappingEventStore = require 'com.logibec.gch.mappings.eventStore'
 local MAX_RESULT = 100
 
 local devMode = iguana.isTest()
---local devMode = false
+--local devMode = false;
 
 if devMode then
    iguana.setTimeout(15)
