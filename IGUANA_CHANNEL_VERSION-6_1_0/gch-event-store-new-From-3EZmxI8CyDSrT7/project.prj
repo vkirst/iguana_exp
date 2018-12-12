@@ -1,0 +1,17 @@
+{
+    "LocalDependencies": [],
+    "LuaDependencies": [
+        "Configuration",
+        "Utils",
+        "com.logibec.gch.db.eventStore",
+        "com.logibec.gch.mappings.eventStore",
+        "store2"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1544094755",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}

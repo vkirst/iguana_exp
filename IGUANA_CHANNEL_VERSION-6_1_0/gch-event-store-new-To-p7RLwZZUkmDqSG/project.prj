@@ -1,0 +1,21 @@
+{
+    "LocalDependencies": [],
+    "LuaDependencies": [
+        "Configuration",
+        "Utils",
+        "com.logibec.espresso.db.employee",
+        "com.logibec.espresso.db.position",
+        "com.logibec.espresso.mappings.employee",
+        "com.logibec.espresso.mappings.position",
+        "date.parse",
+        "store2",
+        "stringutil"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1544094824",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}

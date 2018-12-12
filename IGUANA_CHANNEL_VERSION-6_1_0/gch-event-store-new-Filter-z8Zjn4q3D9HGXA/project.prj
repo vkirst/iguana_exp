@@ -1,0 +1,16 @@
+{
+    "LocalDependencies": [],
+    "LuaDependencies": [
+        "Configuration",
+        "Utils",
+        "date.parse",
+        "store2"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1544094881",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}
